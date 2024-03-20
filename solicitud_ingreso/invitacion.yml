@@ -11,7 +11,7 @@ jobs:
       - name: invite-on-label
         uses: vj-abigo/invite-on-label@v1.4
         with:
-          organization: Tutorias-programacion-w-Rafa
+          organization: UV-LIS-COATZA
           label: invitacion
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: |
